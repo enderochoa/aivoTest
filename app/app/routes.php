@@ -25,6 +25,6 @@ return function (App $app) {
         $group->get('/{id}', ViewUserAction::class);
     });
 
-    $app->get('/v1/albums{query}', ListAlbumsAction::class);
+    $app->get('/v1/albums', ListAlbumsAction::class);
 
 };
