@@ -1,7 +1,7 @@
-.idea/
+.idea/*
 .vscode/
 /coverage/
-/vendor/
-/logs/*
+/app/vendor/*
+/app/logs/*
 !/logs/README.md
 .phpunit.result.cache

@@ -1,0 +1,872 @@
+[
+  {
+    "name": "Independiente + Demos",
+    "released": "2011",
+    "tracks": 26,
+    "cover": {
+      "height": 640,
+      "width": 640,
+      "url": "https:\/\/i.scdn.co\/image\/ab67616d0000b2732e1ba6a3dac7573ac82bfe2e"
+    }
+  },
+  {
+    "name": "Santo Pecado",
+    "released": "2002",
+    "tracks": 14,
+    "cover": {
+      "height": 640,
+      "width": 640,
+      "url": "https:\/\/i.scdn.co\/image\/ab67616d0000b27367fc2155021365c44015deb7"
+    }
+  },
+  {
+    "name": "Circo Soledad",
+    "released": "2017-04-21",
+    "tracks": 14,
+    "cover": {
+      "height": 640,
+      "width": 640,
+      "url": "https:\/\/i.scdn.co\/image\/ab67616d0000b27376d1ce48b87b1a6ef51b7f85"
+    }
+  },
+  {
+    "name": "Blanco",
+    "released": "2020-07-31",
+    "tracks": 15,
+    "cover": {
+      "height": 640,
+      "width": 640,
+      "url": "https:\/\/i.scdn.co\/image\/ab67616d0000b273551c844de15fd068a5b19bc8"
+    }
+  },
+  {
+    "name": "Qui\u00e9n Dijo Ayer",
+    "released": "1992",
+    "tracks": 29,
+    "cover": {
+      "height": 640,
+      "width": 640,
+      "url": "https:\/\/i.scdn.co\/image\/ab67616d0000b2731ac284dd6ae3e6780fc54706"
+    }
+  },
+  {
+    "name": "Canciones De Amor",
+    "released": "2012-01-23",
+    "tracks": 14,
+    "cover": {
+      "height": 640,
+      "width": 640,
+      "url": "https:\/\/i.scdn.co\/image\/ab67616d0000b273a883fc5561a8c737baeb8db8"
+    }
+  },
+  {
+    "name": "Adentro",
+    "released": "2005",
+    "tracks": 16,
+    "cover": {
+      "height": 640,
+      "width": 640,
+      "url": "https:\/\/i.scdn.co\/image\/ab67616d0000b273e84e7fd5383ed4886d889d3d"
+    }
+  },
+  {
+    "name": "S\u00f3lo Para Mujeres",
+    "released": "2013-01-21",
+    "tracks": 14,
+    "cover": {
+      "height": 640,
+      "width": 640,
+      "url": "https:\/\/i.scdn.co\/image\/ab67616d0000b2737d6e9d820246b1bf7b7dd72c"
+    }
+  },
+  {
+    "name": "Animal Nocturno",
+    "released": "1993-02-08",
+    "tracks": 12,
+    "cover": {
+      "height": 640,
+      "width": 640,
+      "url": "https:\/\/i.scdn.co\/image\/ab67616d0000b273ab497e0fae9d1c8ef2e7a165"
+    }
+  },
+  {
+    "name": "Historias",
+    "released": "1994-04-14",
+    "tracks": 14,
+    "cover": {
+      "height": 640,
+      "width": 640,
+      "url": "https:\/\/i.scdn.co\/image\/ab67616d0000b27398bf0a6f6828a3ee131d5a02"
+    }
+  },
+  {
+    "name": "Apague la Luz y Escuche",
+    "released": "2016-07-29",
+    "tracks": 16,
+    "cover": {
+      "height": 640,
+      "width": 640,
+      "url": "https:\/\/i.scdn.co\/image\/ab67616d0000b273be93ea6f4aa6a296892a497e"
+    }
+  },
+  {
+    "name": "Viaje",
+    "released": "2014-04-29",
+    "tracks": 14,
+    "cover": {
+      "height": 640,
+      "width": 640,
+      "url": "https:\/\/i.scdn.co\/image\/ab67616d0000b273680ff63941659b57ceb50cf3"
+    }
+  },
+  {
+    "name": "Ricardo Arjona Vivo",
+    "released": "1999-11-08",
+    "tracks": 16,
+    "cover": {
+      "height": 640,
+      "width": 640,
+      "url": "https:\/\/i.scdn.co\/image\/ab67616d0000b2736c015d173ec5919c740790b3"
+    }
+  },
+  {
+    "name": "5to Piso",
+    "released": "2008",
+    "tracks": 14,
+    "cover": {
+      "height": 640,
+      "width": 640,
+      "url": "https:\/\/i.scdn.co\/image\/ab67616d0000b273c741ee950fcdb560d2782153"
+    }
+  },
+  {
+    "name": "Galeria Caribe",
+    "released": "2000",
+    "tracks": 18,
+    "cover": {
+      "height": 640,
+      "width": 640,
+      "url": "https:\/\/i.scdn.co\/image\/ab67616d0000b273adb19c1eb6d77ef880b39b45"
+    }
+  },
+  {
+    "name": "Si El Norte Fuera El Sur",
+    "released": "1996-08-20",
+    "tracks": 14,
+    "cover": {
+      "height": 640,
+      "width": 640,
+      "url": "https:\/\/i.scdn.co\/image\/ab67616d0000b273ed70e6fb44486d6f71e4ef73"
+    }
+  },
+  {
+    "name": "Independiente",
+    "released": "2011",
+    "tracks": 14,
+    "cover": {
+      "height": 640,
+      "width": 640,
+      "url": "https:\/\/i.scdn.co\/image\/ab67616d0000b273c10a7c9c454bc5a2936e00df"
+    }
+  },
+  {
+    "name": "Sin Da\u00f1os A Terceros",
+    "released": "1998-06-02",
+    "tracks": 14,
+    "cover": {
+      "height": 640,
+      "width": 640,
+      "url": "https:\/\/i.scdn.co\/image\/ab67616d0000b273e5dd3417bf2ac431f5ce1048"
+    }
+  },
+  {
+    "name": "Solo",
+    "released": "2004",
+    "tracks": 13,
+    "cover": {
+      "height": 640,
+      "width": 640,
+      "url": "https:\/\/i.scdn.co\/image\/ab67616d0000b2737d0a5b0d9b1b61d6fae85f3a"
+    }
+  },
+  {
+    "name": "Arjona Metamorfosis en Vivo",
+    "released": "2014-12-02",
+    "tracks": 20,
+    "cover": {
+      "height": 640,
+      "width": 640,
+      "url": "https:\/\/i.scdn.co\/image\/ab67616d0000b273523294aed2f9c1567826849b"
+    }
+  },
+  {
+    "name": "Hongos",
+    "released": "2020-04-28",
+    "tracks": 1,
+    "cover": {
+      "height": 640,
+      "width": 640,
+      "url": "https:\/\/i.scdn.co\/image\/ab67616d0000b27344aaa4373209753b9c8db1ae"
+    }
+  },
+  {
+    "name": "Ricardo Arjona Vivo (Bonus Track Version)",
+    "released": "1999-11-02",
+    "tracks": 16,
+    "cover": {
+      "height": 640,
+      "width": 640,
+      "url": "https:\/\/i.scdn.co\/image\/ab67616d0000b2738570d22d45ce98074c5cfec7"
+    }
+  },
+  {
+    "name": "Circo Soledad En Vivo",
+    "released": "2019-08-30",
+    "tracks": 23,
+    "cover": {
+      "height": 640,
+      "width": 640,
+      "url": "https:\/\/i.scdn.co\/image\/ab67616d0000b2731f4e639d397b6a9c48b6f0c2"
+    }
+  },
+  {
+    "name": "Sobrevivir\u00e1s",
+    "released": "2020-06-19",
+    "tracks": 1,
+    "cover": {
+      "height": 640,
+      "width": 640,
+      "url": "https:\/\/i.scdn.co\/image\/ab67616d0000b273c2b304f079e3da4392a46324"
+    }
+  },
+  {
+    "name": "El Invisible",
+    "released": "2020-07-03",
+    "tracks": 1,
+    "cover": {
+      "height": 640,
+      "width": 640,
+      "url": "https:\/\/i.scdn.co\/image\/ab67616d0000b273b643b21933de87d2e074348f"
+    }
+  },
+  {
+    "name": "No Es el Momento",
+    "released": "2020-07-10",
+    "tracks": 1,
+    "cover": {
+      "height": 640,
+      "width": 640,
+      "url": "https:\/\/i.scdn.co\/image\/ab67616d0000b273f048a6ab474d9f7aed08b29a"
+    }
+  },
+  {
+    "name": "Hermanos Del Tiempo",
+    "released": "2013-09-20",
+    "tracks": 10,
+    "cover": {
+      "height": 640,
+      "width": 640,
+      "url": "https:\/\/i.scdn.co\/image\/ab67616d0000b2737ea518e0654e4536360ba3f8"
+    }
+  },
+  {
+    "name": "Batichica",
+    "released": "2020-07-24",
+    "tracks": 1,
+    "cover": {
+      "height": 640,
+      "width": 640,
+      "url": "https:\/\/i.scdn.co\/image\/ab67616d0000b2734b9beb65976406d70ef40085"
+    }
+  },
+  {
+    "name": "Poquita Ropa",
+    "released": "2010",
+    "tracks": 12,
+    "cover": {
+      "height": 640,
+      "width": 640,
+      "url": "https:\/\/i.scdn.co\/image\/ab67616d0000b2731db7b4d2932e31fea32cb1cd"
+    }
+  },
+  {
+    "name": "El Amor Que Me Ten\u00eda",
+    "released": "2020-05-29",
+    "tracks": 1,
+    "cover": {
+      "height": 640,
+      "width": 640,
+      "url": "https:\/\/i.scdn.co\/image\/ab67616d0000b2737ed332e86cbab7af8ee57d2d"
+    }
+  },
+  {
+    "name": "Ella Baila Sola (A Ver\u00f3nica Luque)",
+    "released": "2020-07-17",
+    "tracks": 1,
+    "cover": {
+      "height": 640,
+      "width": 640,
+      "url": "https:\/\/i.scdn.co\/image\/ab67616d0000b273e5f303d575d4fdc90a32280a"
+    }
+  },
+  {
+    "name": "Blues de la Notoriedad",
+    "released": "2020-06-05",
+    "tracks": 1,
+    "cover": {
+      "height": 640,
+      "width": 640,
+      "url": "https:\/\/i.scdn.co\/image\/ab67616d0000b2739d29e9c70e0b26ad1d575ac2"
+    }
+  },
+  {
+    "name": "Tarot",
+    "released": "2020-06-26",
+    "tracks": 1,
+    "cover": {
+      "height": 640,
+      "width": 640,
+      "url": "https:\/\/i.scdn.co\/image\/ab67616d0000b273a2529f69aea5ab8c018bfc9e"
+    }
+  },
+  {
+    "name": "Mam\u00e1s de Mois\u00e9s",
+    "released": "2020-06-12",
+    "tracks": 1,
+    "cover": {
+      "height": 640,
+      "width": 640,
+      "url": "https:\/\/i.scdn.co\/image\/ab67616d0000b2734c8bba5895da4b13c7162c59"
+    }
+  },
+  {
+    "name": "Simplemente Lo Mejor",
+    "released": "2008",
+    "tracks": 16,
+    "cover": {
+      "height": 640,
+      "width": 640,
+      "url": "https:\/\/i.scdn.co\/image\/ab67616d0000b2737d292857f29a2ced25fb85d4"
+    }
+  },
+  {
+    "name": "En Vivo",
+    "released": "2003-01-07",
+    "tracks": 16,
+    "cover": {
+      "height": 640,
+      "width": 640,
+      "url": "https:\/\/i.scdn.co\/image\/ab67616d0000b273c1f5e5c8099f6cb5dff111fa"
+    }
+  },
+  {
+    "name": "Nada Es Como T\u00fa (Ac\u00fastico)",
+    "released": "2016-06-17",
+    "tracks": 1,
+    "cover": {
+      "height": 640,
+      "width": 640,
+      "url": "https:\/\/i.scdn.co\/image\/ab67616d0000b273dab4a9ba9b9a95c8d768b03f"
+    }
+  },
+  {
+    "name": "Lo Mejor de Ricardo Arjona",
+    "released": "2012-01-04",
+    "tracks": 17,
+    "cover": {
+      "height": 640,
+      "width": 640,
+      "url": "https:\/\/i.scdn.co\/image\/ab67616d0000b273eea8e70e8c8b2fb973929367"
+    }
+  },
+  {
+    "name": "Apnea",
+    "released": "2014-03-04",
+    "tracks": 1,
+    "cover": {
+      "height": 640,
+      "width": 640,
+      "url": "https:\/\/i.scdn.co\/image\/ab67616d0000b2735e55519400d71b2d1b8d76fe"
+    }
+  },
+  {
+    "name": "Mientras Tanto (Con La Participacion De Ricardo Arjona)",
+    "released": "2012-08-31",
+    "tracks": 1,
+    "cover": {
+      "height": 640,
+      "width": 640,
+      "url": "https:\/\/i.scdn.co\/image\/ab67616d0000b2735d3a013877b3b46d4150feef"
+    }
+  },
+  {
+    "name": "Exitos de Ricardo Arjona",
+    "released": "2014-03-29",
+    "tracks": 9,
+    "cover": {
+      "height": 640,
+      "width": 640,
+      "url": "https:\/\/i.scdn.co\/image\/ab67616d0000b2735bfd56e2e95613290ce72fd8"
+    }
+  },
+  {
+    "name": "Tributo a Ricardo Arjona",
+    "released": "2013-10-08",
+    "tracks": 16,
+    "cover": {
+      "height": 640,
+      "width": 640,
+      "url": "https:\/\/i.scdn.co\/image\/ab67616d0000b2732c232c33b0a0da2a7f4047f7"
+    }
+  },
+  {
+    "name": "Tributo a Ricardo Arjona",
+    "released": "2010-09-14",
+    "tracks": 15,
+    "cover": {
+      "height": 640,
+      "width": 640,
+      "url": "https:\/\/i.scdn.co\/image\/ab67616d0000b2736d2446d7d61c469f9cde09e9"
+    }
+  },
+  {
+    "name": "Tributo a Ricardo Arjona",
+    "released": "2007-10-01",
+    "tracks": 12,
+    "cover": {
+      "height": 640,
+      "width": 640,
+      "url": "https:\/\/i.scdn.co\/image\/ab67616d0000b27374bbc229b05555908d3621de"
+    }
+  },
+  {
+    "name": "Karaoke Canta Como Ricardo Arjona",
+    "released": "2012-07-31",
+    "tracks": 31,
+    "cover": {
+      "height": 640,
+      "width": 640,
+      "url": "https:\/\/i.scdn.co\/image\/ab67616d0000b27365e637c08d9c02850d2e9bd9"
+    }
+  },
+  {
+    "name": "Karaoke Canta Como Ricardo Arjona",
+    "released": "2013-01-25",
+    "tracks": 11,
+    "cover": {
+      "height": 640,
+      "width": 640,
+      "url": "https:\/\/i.scdn.co\/image\/ab67616d0000b27373a6c4e420ec9553db297911"
+    }
+  },
+  {
+    "name": "Golden hits of Ricardo Arjona",
+    "released": "2010-09-30",
+    "tracks": 15,
+    "cover": {
+      "height": 640,
+      "width": 640,
+      "url": "https:\/\/i.scdn.co\/image\/ab67616d0000b273193550ffec2dafe57527ee4a"
+    }
+  },
+  {
+    "name": "Apnea - Tribute to Ricardo Arjona - EP",
+    "released": "2014-05-29",
+    "tracks": 4,
+    "cover": {
+      "height": 640,
+      "width": 640,
+      "url": "https:\/\/i.scdn.co\/image\/ab67616d0000b273d3a7ea524e46ba870c05a7d3"
+    }
+  },
+  {
+    "name": "Instrumental Karaoke Series: Ricardo Arjona, Vol. 1",
+    "released": "2015-01-28",
+    "tracks": 12,
+    "cover": {
+      "height": 640,
+      "width": 640,
+      "url": "https:\/\/i.scdn.co\/image\/ab67616d0000b273317f6266fa7dde368367c3eb"
+    }
+  },
+  {
+    "name": "Instrumental Karaoke Series: Ricardo Arjona, Vol. 4",
+    "released": "2015-01-28",
+    "tracks": 11,
+    "cover": {
+      "height": 640,
+      "width": 640,
+      "url": "https:\/\/i.scdn.co\/image\/ab67616d0000b27357e3fe07ddb4db83673eac00"
+    }
+  },
+  {
+    "name": "Karaoke - In the Style of Ricardo Arjona",
+    "released": "2013-06-07",
+    "tracks": 42,
+    "cover": {
+      "height": 640,
+      "width": 640,
+      "url": "https:\/\/i.scdn.co\/image\/ab67616d0000b2738f0d180399158289edaa2497"
+    }
+  },
+  {
+    "name": "Instrumental Karaoke Series: Ricardo Arjona, Vol. 3",
+    "released": "2015-01-28",
+    "tracks": 11,
+    "cover": {
+      "height": 640,
+      "width": 640,
+      "url": "https:\/\/i.scdn.co\/image\/ab67616d0000b273617e62c73f87a06490a687d4"
+    }
+  },
+  {
+    "name": "Karaoke - In the Style of Ricardo Arjona",
+    "released": "2013-09-30",
+    "tracks": 16,
+    "cover": {
+      "height": 640,
+      "width": 640,
+      "url": "https:\/\/i.scdn.co\/image\/ab67616d0000b2737d5709c55cebcbbf0e853737"
+    }
+  },
+  {
+    "name": "Karaoke (In the Style of Ricardo Arjona)",
+    "released": "2013-03-19",
+    "tracks": 43,
+    "cover": {
+      "height": 640,
+      "width": 640,
+      "url": "https:\/\/i.scdn.co\/image\/ab67616d0000b2734bbc5fd8e6860801dac11314"
+    }
+  },
+  {
+    "name": "Instrumental Karaoke Series: Ricardo Arjona, Vol. 2",
+    "released": "2015-01-28",
+    "tracks": 12,
+    "cover": {
+      "height": 640,
+      "width": 640,
+      "url": "https:\/\/i.scdn.co\/image\/ab67616d0000b2734feac5b6c2fc9d21d75a92b6"
+    }
+  },
+  {
+    "name": "The Karaoke Channel - Sing Mujeres Like Ricardo Arjona",
+    "released": "2015-09-22",
+    "tracks": 2,
+    "cover": {
+      "height": 640,
+      "width": 640,
+      "url": "https:\/\/i.scdn.co\/image\/ab67616d0000b2735e6a3a712596587c896c968f"
+    }
+  },
+  {
+    "name": "The Karaoke Channel - Sing Desnuda Like Ricardo Arjona",
+    "released": "2015-02-27",
+    "tracks": 2,
+    "cover": {
+      "height": 640,
+      "width": 640,
+      "url": "https:\/\/i.scdn.co\/image\/ab67616d0000b27395b8df483f3b91c49596e380"
+    }
+  },
+  {
+    "name": "The Karaoke Channel - Sing Minutos Like Ricardo Arjona",
+    "released": "2014-10-16",
+    "tracks": 2,
+    "cover": {
+      "height": 640,
+      "width": 640,
+      "url": "https:\/\/i.scdn.co\/image\/ab67616d0000b2733a8d8e92cf7cbd4ee9fe4d05"
+    }
+  },
+  {
+    "name": "The Karaoke Channel - Sing Dame Like Ricardo Arjona",
+    "released": "2014-10-24",
+    "tracks": 2,
+    "cover": {
+      "height": 640,
+      "width": 640,
+      "url": "https:\/\/i.scdn.co\/image\/ab67616d0000b2733dac0e83c9e40bbf1397c3b2"
+    }
+  },
+  {
+    "name": "The Karaoke Channel - Sing Cu\u00e1ndo Like Ricardo Arjona",
+    "released": "2015-01-05",
+    "tracks": 2,
+    "cover": {
+      "height": 640,
+      "width": 640,
+      "url": "https:\/\/i.scdn.co\/image\/ab67616d0000b273caf40fe63e7559af0098574b"
+    }
+  },
+  {
+    "name": "Lo poco que tengo - Tribute to Ricardo Arjona - EP",
+    "released": "2014-10-08",
+    "tracks": 4,
+    "cover": {
+      "height": 640,
+      "width": 640,
+      "url": "https:\/\/i.scdn.co\/image\/ab67616d0000b273f713df01645d5a352f3dbd95"
+    }
+  },
+  {
+    "name": "The Karaoke Channel - Sing Duele Verte Like Ricardo Arjona",
+    "released": "2014-10-08",
+    "tracks": 2,
+    "cover": {
+      "height": 640,
+      "width": 640,
+      "url": "https:\/\/i.scdn.co\/image\/ab67616d0000b27309c752e7e94560c68e11fbfc"
+    }
+  },
+  {
+    "name": "Pistas Musicales (Karaoke Version) [Originally Performed By Ricardo Arjona]",
+    "released": "2014-09-24",
+    "tracks": 9,
+    "cover": {
+      "height": 640,
+      "width": 640,
+      "url": "https:\/\/i.scdn.co\/image\/ab67616d0000b273b93dc8faccff7834b05beb5a"
+    }
+  },
+  {
+    "name": "Karaoke - In The Style Of Ricardo Arjona - Vol. 1",
+    "released": "2008-01-15",
+    "tracks": 4,
+    "cover": {
+      "height": 640,
+      "width": 640,
+      "url": "https:\/\/i.scdn.co\/image\/ab67616d0000b273550a6eb716c8ee2cfbd6044a"
+    }
+  },
+  {
+    "name": "Mojado (Popularizado por Ricardo Arjona & Intocable) [Karaoke Version]",
+    "released": "2012-07-31",
+    "tracks": 1,
+    "cover": {
+      "height": 640,
+      "width": 640,
+      "url": "https:\/\/i.scdn.co\/image\/ab67616d0000b273953804e73591da3df191c19a"
+    }
+  },
+  {
+    "name": "Pistas Musicales (Karaoke Version) [Originally Performed By Ricardo Arjona]",
+    "released": "2014-11-27",
+    "tracks": 9,
+    "cover": {
+      "height": 640,
+      "width": 640,
+      "url": "https:\/\/i.scdn.co\/image\/ab67616d0000b273cd0a1a04cf6c12d1eaee544e"
+    }
+  },
+  {
+    "name": "The Karaoke Channel - Sing El Problema Like Ricardo Arjona",
+    "released": "2014-10-31",
+    "tracks": 2,
+    "cover": {
+      "height": 640,
+      "width": 640,
+      "url": "https:\/\/i.scdn.co\/image\/ab67616d0000b273c95c9adc3ebd2fb719cd33f1"
+    }
+  },
+  {
+    "name": "Minutos(Karaoke Version) [In The Style Of Ricardo Arjona]",
+    "released": "2015-03-24",
+    "tracks": 1,
+    "cover": {
+      "height": 640,
+      "width": 640,
+      "url": "https:\/\/i.scdn.co\/image\/ab67616d0000b273c4ffe72839dfdd79e0707c11"
+    }
+  },
+  {
+    "name": "El Problema(Karaoke Version) [In The Style Of Ricardo Arjona]",
+    "released": "2015-03-26",
+    "tracks": 1,
+    "cover": {
+      "height": 640,
+      "width": 640,
+      "url": "https:\/\/i.scdn.co\/image\/ab67616d0000b2731534e207ce235c8c4f5807ba"
+    }
+  },
+  {
+    "name": "Drew's Famous #1 Latin Karaoke Hits: Sing Like Ricardo Arjona",
+    "released": "2011-11-01",
+    "tracks": 34,
+    "cover": {
+      "height": 640,
+      "width": 640,
+      "url": "https:\/\/i.scdn.co\/image\/ab67616d0000b273ead6410b8eb7340b3584acd8"
+    }
+  },
+  {
+    "name": "Pistas Musicales al Estilo de Ricardo Arjona (Instrumental Karaoke Tracks)",
+    "released": "2014-03-27",
+    "tracks": 9,
+    "cover": {
+      "height": 640,
+      "width": 640,
+      "url": "https:\/\/i.scdn.co\/image\/ab67616d0000b2737491eeb2bf63028641462d55"
+    }
+  },
+  {
+    "name": "Como Duele (In the Style of Ricardo Arjona) [Karaoke Version]",
+    "released": "2012-05-01",
+    "tracks": 1,
+    "cover": {
+      "height": 640,
+      "width": 640,
+      "url": "https:\/\/i.scdn.co\/image\/ab67616d0000b273f94451f22fbcadbd2ff09ee7"
+    }
+  },
+  {
+    "name": "The Karaoke Channel - In the style of Ricardo Arjona - Vol. 1",
+    "released": "2008",
+    "tracks": 4,
+    "cover": {
+      "height": 640,
+      "width": 640,
+      "url": "https:\/\/i.scdn.co\/image\/ab67616d0000b2732e2adfebff98265884242309"
+    }
+  },
+  {
+    "name": "Dime Que No(Karaoke Version) [In The Style Of Ricardo Arjona]",
+    "released": "2015-03-27",
+    "tracks": 1,
+    "cover": {
+      "height": 640,
+      "width": 640,
+      "url": "https:\/\/i.scdn.co\/image\/ab67616d0000b27386dac9d6d95178b347f52519"
+    }
+  },
+  {
+    "name": "Karaoke: In the Style of Ricardo Arjona - Single (Professional Performance Tracks)",
+    "released": "2010-02-10",
+    "tracks": 3,
+    "cover": {
+      "height": 640,
+      "width": 640,
+      "url": "https:\/\/i.scdn.co\/image\/ab67616d0000b273564840db1a93d00c52289186"
+    }
+  },
+  {
+    "name": "Ping\u00fcinos En La Cama(Karaoke Version) [In The Style Of Ricardo Arjona]",
+    "released": "2015-03-24",
+    "tracks": 1,
+    "cover": {
+      "height": 640,
+      "width": 640,
+      "url": "https:\/\/i.scdn.co\/image\/ab67616d0000b27373950cd9f60d5c74b2a6bc71"
+    }
+  },
+  {
+    "name": "Mujeres (In the Style of Ricardo Arjona) [Performance Track with Demonstration Vocals]",
+    "released": "2011-12-25",
+    "tracks": 1,
+    "cover": {
+      "height": 640,
+      "width": 640,
+      "url": "https:\/\/i.scdn.co\/image\/ab67616d0000b273f10c2e3c04d680755de755a4"
+    }
+  },
+  {
+    "name": "Todos a Cantar Karaoke: \u00c9xitos de Ricardo Arjona, Vol. 2 (Karaoke Version)",
+    "released": "2014-04-04",
+    "tracks": 8,
+    "cover": {
+      "height": 640,
+      "width": 640,
+      "url": "https:\/\/i.scdn.co\/image\/ab67616d0000b2731d6351991ec2f394af396b85"
+    }
+  },
+  {
+    "name": "Duele Verte (In the Style of Ricardo Arjona) [Karaoke and Vocal Versions]",
+    "released": "2012-04-02",
+    "tracks": 2,
+    "cover": {
+      "height": 640,
+      "width": 640,
+      "url": "https:\/\/i.scdn.co\/image\/ab67616d0000b2734b9f389c85c6f1a5d6ca2f9a"
+    }
+  },
+  {
+    "name": "Todos a Cantar Karaoke: \u00c9xitos de Ricardo Arjona, Vol. 1 (Karaoke Version)",
+    "released": "2014-04-04",
+    "tracks": 8,
+    "cover": {
+      "height": 640,
+      "width": 640,
+      "url": "https:\/\/i.scdn.co\/image\/ab67616d0000b273676c72541760ae871945d354"
+    }
+  },
+  {
+    "name": "Duele Verte (In The Style Of Ricardo Arjona) [Performance Track with Demonstration Vocals]",
+    "released": "2011-10-10",
+    "tracks": 1,
+    "cover": {
+      "height": 640,
+      "width": 640,
+      "url": "https:\/\/i.scdn.co\/image\/ab67616d0000b2739573d4277866b2c556d69389"
+    }
+  },
+  {
+    "name": "Mujeres (In the Style of Ricardo Arjona) [Performance Track with Demonstration Vocals] - Single",
+    "released": "2012-06-13",
+    "tracks": 1,
+    "cover": {
+      "height": 640,
+      "width": 640,
+      "url": "https:\/\/i.scdn.co\/image\/ab67616d0000b27323320e95219ff6066a9d996d"
+    }
+  },
+  {
+    "name": "Se\u00f1ora De Las Cuatro Decadas(Karaoke Version) [In The Style Of Ricardo Arjona]",
+    "released": "2015-03-24",
+    "tracks": 1,
+    "cover": {
+      "height": 640,
+      "width": 640,
+      "url": "https:\/\/i.scdn.co\/image\/ab67616d0000b27329214340b0cc9cf380e414ae"
+    }
+  },
+  {
+    "name": "Desnuda - Single (In the Style of Ricardo Arjona) [Performance Track with Demonstration Vocals]",
+    "released": "2012-01-26",
+    "tracks": 1,
+    "cover": {
+      "height": 640,
+      "width": 640,
+      "url": "https:\/\/i.scdn.co\/image\/ab67616d0000b2738f1b3248ce0db4254b15e052"
+    }
+  },
+  {
+    "name": "Cu\u00e1ndo - Single (In the Style of Ricardo Arjona) [Performance Track with Demonstration Vocals]",
+    "released": "2012-01-11",
+    "tracks": 1,
+    "cover": {
+      "height": 640,
+      "width": 640,
+      "url": "https:\/\/i.scdn.co\/image\/ab67616d0000b273a35a0e2e3184c56d1193e578"
+    }
+  },
+  {
+    "name": "Mientras Tanto (In the Style of Tommy Torres Y Ricardo Arjona) [Karaoke Version] - Single",
+    "released": "2013-06-07",
+    "tracks": 1,
+    "cover": {
+      "height": 640,
+      "width": 640,
+      "url": "https:\/\/i.scdn.co\/image\/ab67616d0000b273859df95bf7ce00d606ae013d"
+    }
+  },
+  {
+    "name": "Homenaje Musical a Serrat, Arjona & Sabina",
+    "released": "2014-03-05",
+    "tracks": 12,
+    "cover": {
+      "height": 640,
+      "width": 640,
+      "url": "https:\/\/i.scdn.co\/image\/ab67616d0000b27378ef7359513e60628460dba2"
+    }
+  }
+]
